@@ -1,1 +1,38 @@
-/*# sourceMappingURL=project3.css.map */
+body {
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #F5F5ED;
+  padding: 1rem 1rem;
+}
+nav .navlinks {
+  display: flex;
+  gap: 2rem;
+}
+nav .navlinks a {
+  text-decoration: none;
+  font-family: "poppins";
+  font-size: 14px;
+  font-weight: 600;
+  color: black;
+}
+nav .nav3 {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+nav .nav3 input {
+  border-radius: 20px;
+  width: 100px;
+  padding: 5px 10px 5px 32px;
+  border: none;
+}
+nav .nav3 #search {
+  position: absolute;
+  top: 5%;
+  right: 25%;
+}/*# sourceMappingURL=project3.css.map */
