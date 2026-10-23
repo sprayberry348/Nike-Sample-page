@@ -46,6 +46,16 @@ section {
   margin-bottom: 0;
   background-color: #F5F5ED;
 }
+section .position #JDI {
+  font-family: "poppins";
+  font-weight: 600;
+  font-size: 15px;
+  position: absolute;
+  top: 56%;
+  left: -10%;
+  letter-spacing: 2rem;
+  transform: rotate(-90deg);
+}
 section .position #nke {
   font-family: "bebas neue";
   font-size: 450px;
